@@ -1,0 +1,25 @@
+{
+  "name": "node-get-and-show-json",
+  "version": "1.0.0",
+  "description": "Call API, store a respsonse, and display as html",
+  "main": "makePage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahscanlon/node-get-and-show-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiahscanlon/node-get-and-show-json/issues"
+  },
+  "homepage": "https://github.com/jeremiahscanlon/node-get-and-show-json#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "open": "0.0.5",
+    "request": "^2.70.0"
+  }
+}
